@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Thilagam P (Spidy) 👋
+# Hi, I'm Thilagam P
 
 ### CSE Student · AI Builder · Cybersecurity Explorer
 
