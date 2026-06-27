@@ -40,11 +40,12 @@ class Thilagam:
             "🇯🇵 Learning Japanese",
         ]
 
-        self.dream    = "Engineer @ Microsoft or OpenAI"
+        self.dream    = "Future Engineer
+                         @ Microsoft or OpenAI"
         self.status   = "Grinding every day 💪"
 
     def say_hi(self):
-        print("Hi! I'm Spidy 🤖")
+        
         print("Let's build the future together!")
 
 me = Thilagam()
